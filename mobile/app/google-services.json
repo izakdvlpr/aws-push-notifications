@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063750062046",
+    "project_id": "awspushnotifications-c68d6",
+    "storage_bucket": "awspushnotifications-c68d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063750062046:android:934b590994586b2906174f",
+        "android_client_info": {
+          "package_name": "com.izakdvlpr.awspushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqDjxWW9xfY9vVyxayqoCPUcyGHWcmp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
